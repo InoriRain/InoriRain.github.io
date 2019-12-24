@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>祈雨的Blog</title>
+    <link>http://inorirain.github.io/</link>
+    <description>Recent content on 祈雨的Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hant-TW</language>
+    <lastBuildDate>Tue, 24 Dec 2019 20:44:29 +0800</lastBuildDate>
+    
+	<atom:link href="http://inorirain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FriendshipLink</title>
+      <link>http://inorirain.github.io/about/friendshiplink/</link>
+      <pubDate>Tue, 24 Dec 2019 20:44:29 +0800</pubDate>
+      
+      <guid>http://inorirain.github.io/about/friendshiplink/</guid>
+      <description>某次元的教學blog</description>
+    </item>
+    
+    <item>
+      <title>AboutMe</title>
+      <link>http://inorirain.github.io/about/aboutme/</link>
+      <pubDate>Tue, 24 Dec 2019 20:41:11 +0800</pubDate>
+      
+      <guid>http://inorirain.github.io/about/aboutme/</guid>
+      <description>一個越開越多坑的鹹魚大學生 有碰的坑如下： Golang Unity / C# Unreal Engine / C++ / BluePrint</description>
+    </item>
+    
+  </channel>
+</rss>
